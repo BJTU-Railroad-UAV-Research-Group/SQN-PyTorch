@@ -27,5 +27,5 @@ sh compile_op.sh
 ## Train a model(Custom my own dataset for example)
 
 ```
-python mainEnv.py
+python main_Env.py
 ```
