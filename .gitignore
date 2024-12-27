@@ -1,0 +1,6 @@
+*.pyc
+utils/cpp_wrappers/*
+utils/nearest_neighbors/*
+wandb/*
+RandLA/*
+.vscode/*
