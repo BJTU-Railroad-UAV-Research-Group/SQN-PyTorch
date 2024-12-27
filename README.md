@@ -24,7 +24,7 @@ sh compile_op.sh
 
    Note: Please change the dataset path in the 'data_prepare_s3dis.py' with your own path.
 
-## Train a model(Custom my own dataset for example)
+## Train a model (Custom my own dataset for example)
 
 ```
 python main_Env.py
