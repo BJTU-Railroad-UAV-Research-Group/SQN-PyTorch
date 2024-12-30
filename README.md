@@ -4,7 +4,7 @@ This repository contains a PyTorch-lightning implementation of SQN on S3DIS and 
 
 **This repository is mainly based on the [repository](https://github.com/mellody11/RandLA-Net-Pytorch-New) and [repository](https://github.com/BigCiLeng/SQN_pl)**
 
-## Preparation(S3DIS for example)
+## Preparation (S3DIS for example)
 
 1. Clone this repository
 2. Install some Python dependencies, such as scikit-learn. All packages can be installed with pip.
@@ -28,4 +28,10 @@ sh compile_op.sh
 
 ```
 python main_Env.py
+```
+
+## Test a model and write the predicted points cloud (Custom my own dataset for example)
+
+```
+python test_Env.py
 ```
